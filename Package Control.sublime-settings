@@ -1,17 +1,18 @@
 {
-  "auto_upgrade_last_run": 1340943709,
-  "installed_packages":
-  [
-    "Abacus",
-    "CTags",
-    "DetectSyntax",
-    "Git",
-    "Package Control",
-    "RSpec",
-    "Ruby 1.9 Hash Converter",
-    "SCSS",
-    "SideBarEnhancements",
-    "SideBarGit",
-    "Theme - Soda"
-  ]
+	"auto_upgrade_last_run": 1348250583,
+	"installed_packages":
+	[
+		"Abacus",
+		"CTags",
+		"DetectSyntax",
+		"Git",
+		"Package Control",
+		"RSpec",
+		"Ruby 1.9 Hash Converter",
+		"SCSS",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Theme - Soda",
+		"VintageEx"
+	]
 }

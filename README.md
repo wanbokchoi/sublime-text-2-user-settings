@@ -32,6 +32,7 @@ git pull
 ## Usage
 
 * you can bind ⌘R to run the current file and ⌘⇧R to run the current test. The tests will run in Terminal.
+
 * ⌘ P
   - ⌘ P and then type ”@”, that gives you a list of all the methods in this file.
   - ⌘ P and then type ”:” followed by a number, that jumps to the specified line number in this file.
