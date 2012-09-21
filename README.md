@@ -42,3 +42,5 @@ git pull
 * Shift+Ctrl+space To trigger manual codeintel autocompletion use .
 
 * Make a selection, then command + option + control + ] an alignment tool and not a full-blown beautifier. It works best when there's one assignment per line
+
+* See [Sublime Text 2 Guard Plugin](https://github.com/cyphactor/sublime_guard) usage
