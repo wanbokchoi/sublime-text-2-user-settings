@@ -29,6 +29,7 @@ Pull on the repo:
 ```
 git pull
 ```
+
 ## Usage
 
 * you can bind ⌘R to run the current file and ⌘⇧R to run the current test. The tests will run in Terminal.
@@ -44,3 +45,13 @@ git pull
 * Make a selection, then command + option + control + ] an alignment tool and not a full-blown beautifier. It works best when there's one assignment per line
 
 * See [Sublime Text 2 Guard Plugin](https://github.com/cyphactor/sublime_guard) usage
+
+## Issue
+
+if get an error message like "'https://github.com': Device not configured" then do,
+
+```
+git remote set-url origin git@github.com:username/repo.git
+```
+Here is the [stackoverflow answer](http://stackoverflow.com/questions/6565357/git-push-requires-username-and-password) for this issue.
+
