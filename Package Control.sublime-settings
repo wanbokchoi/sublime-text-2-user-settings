@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1348250583,
+	"auto_upgrade_last_run": 1348319238,
 	"installed_packages":
 	[
 		"Abacus",
@@ -11,6 +11,8 @@
 		"Rails Related Files",
 		"RSpec",
 		"Ruby 1.9 Hash Converter",
+		"RubyMotion Autocomplete",
+		"RubyMotionBuilder",
 		"SCSS",
 		"SideBarEnhancements",
 		"SideBarGit",

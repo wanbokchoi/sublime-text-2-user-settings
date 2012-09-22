@@ -44,7 +44,7 @@ git pull
 
 * Make a selection, then command + option + control + ] an alignment tool and not a full-blown beautifier. It works best when there's one assignment per line
 
-* [Rails Related Files](https://github.com/luqman/SublimeText2RailsRelatedFiles) : lets imagine you "right clicked" on the following file/s (Screenshot 2) or by using the "CMD+Shift+O" shortcut (Screenshot 1)  it will search for files:
+* [Rails Related Files](https://github.com/luqman/SublimeText2RailsRelatedFiles) : lets imagine you "right clicked" on the following file/s (Screenshot 2) or by using the "⌘⇧O" shortcut (Screenshot 1)  it will search for files:
 
  `posts_controller.rb` under `app/controllers`
 
