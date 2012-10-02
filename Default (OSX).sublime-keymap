@@ -31,6 +31,10 @@
     "keys": ["super+alt+]"],
     "command": "reindent",
     "args": { "single_line": false }
+  },
+  {
+    "keys": ["ctrl+shift+j"],
+    "command": "js_coffee"
   }
   // {
   //   "keys": ["super+r"],

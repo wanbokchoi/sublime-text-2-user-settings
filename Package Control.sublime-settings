@@ -1,22 +1,27 @@
 {
-	"auto_upgrade_last_run": 1348505297,
+	"auto_upgrade_last_run": 1349145015,
 	"installed_packages":
 	[
 		"Abacus",
+		"CoffeeCompile",
+		"CoffeeScript",
 		"CTags",
 		"DetectSyntax",
 		"Git",
 		"Guard",
+		"JS2Coffee",
 		"Package Control",
 		"Rails Related Files",
 		"RSpec",
 		"Ruby 1.9 Hash Converter",
 		"RubyMotion Autocomplete",
 		"RubyMotionBuilder",
+		"RubyTest",
 		"SCSS",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"Theme - Soda",
+		"TJ3-syntax-sublimetext2",
 		"VintageEx"
 	]
 }
